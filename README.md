@@ -27,4 +27,4 @@ Here's a walkthro
 ugh of implemented user stories:
 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/VPRek9uP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
