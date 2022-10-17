@@ -21,10 +21,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories: User can log out 
-<img src='http://g.recordit.co/hbfzGULNWW.gif' title='User Can Log out' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/JZk3FGy1uL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Here's a walkthrough of implemented user stories:  User stays logged in across restarts.
-<img src='http://g.recordit.co/qZekPM5IOq.gif' title='User stays logged in across restarts.' width='' alt='Video Walkthrough' />
 
 
 # Parstagram - Part I
