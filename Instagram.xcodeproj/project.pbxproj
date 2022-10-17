@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		002156AE28FBC2E9007A1078 /* commentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002156AD28FBC2E9007A1078 /* commentCell.swift */; };
 		003F0AA028F3E83700855C0E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003F0A9F28F3E83700855C0E /* AppDelegate.swift */; };
 		003F0AA228F3E83700855C0E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003F0AA128F3E83700855C0E /* SceneDelegate.swift */; };
 		003F0AA728F3E83700855C0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 003F0AA528F3E83700855C0E /* Main.storyboard */; };
@@ -44,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		002156AD28FBC2E9007A1078 /* commentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = commentCell.swift; sourceTree = "<group>"; };
 		003F0A9C28F3E83700855C0E /* Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		003F0A9F28F3E83700855C0E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		003F0AA128F3E83700855C0E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 			children = (
 				003F0A9F28F3E83700855C0E /* AppDelegate.swift */,
 				003F0AA128F3E83700855C0E /* SceneDelegate.swift */,
+				002156AD28FBC2E9007A1078 /* commentCell.swift */,
 				00D9D21628F4917100AA5FC1 /* LoginViewControlller.swift */,
 				00D9D21A28F4CCB900AA5FC1 /* cameraViewController.swift */,
 				00D9D21828F4918000AA5FC1 /* FeedViewController.swift */,
@@ -433,6 +436,7 @@
 				00D9D21928F4918000AA5FC1 /* FeedViewController.swift in Sources */,
 				003F0AA028F3E83700855C0E /* AppDelegate.swift in Sources */,
 				003F0AA228F3E83700855C0E /* SceneDelegate.swift in Sources */,
+				002156AE28FBC2E9007A1078 /* commentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
