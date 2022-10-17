@@ -22,6 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+User can log out 
 <img src='http://g.recordit.co/hbfzGULNWW.gif' title='User Can Log out' width='' alt='Video Walkthrough' />
 
 
